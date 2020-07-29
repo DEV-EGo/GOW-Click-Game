@@ -33,7 +33,7 @@ for (var i = 0; i < numberscoreOption.length; i++) {
 
     // adding each image data attributes and classes to the page
 
-    $(".GOW").append(GOWimage);
+    $("#GOW").append(GOWimage);
 }
 
 // ==============================

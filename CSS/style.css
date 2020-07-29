@@ -1,4 +1,20 @@
-.gow-image {
+.game-image {
     width: 300px;
     height: 300px;
 }
+
+#GOW{
+    padding: 50px 80px;
+}
+
+.game-image{
+width: 290px;
+height: 345px;
+padding: 10px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+
+  }
