@@ -8,6 +8,10 @@
     align-content: center;
 }
 
+.game-image{
+padding: 0 2% 0 7%;
+}
+
 .jumbotron{
     background-color: #3a53ff2e;
     text-align: center;
