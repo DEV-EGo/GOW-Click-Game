@@ -5,25 +5,16 @@
 
 #GOW{
     padding: 50px 80px;
-    max-width: 1500px; height: auto;
+    align-content: center;
 }
 
-.game-image{
-width: 290px;
-height: 345px;
-padding: 10px;
-display: block;
-
+.jumbotron{
+    background-color: #3a53ff2e;
+    text-align: center;
+    color: white;
+    font-family: 'Ranchers', cursive;
 }
 
-.flex-container {
-    display: flex;
-    justify-content: center;
-
-  }
-  @media only screen and (max-width:620px) {
-    /* For mobile phones: */
-    #GOW, .flex-container{
-      width:100%;
-    }
-  }
+body {
+    background: black;
+}
